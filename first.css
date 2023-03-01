@@ -1,0 +1,16 @@
+#tab,tr,td,th{
+    border: 3px solid white ;
+    border-collapse: collapse;
+    width:800px;
+    height:60px;
+    text-align: center;
+    /*vertical-align: bottom; */
+
+}
+th{ background-color:rgb(244, 112, 112);}
+
+tr{
+    background-color: #96D4D4;
+
+}
+tr:hover {background-color: coral;}
